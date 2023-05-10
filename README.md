@@ -2,7 +2,7 @@
 
 ### Clone o Repostório para sua máquina
 
-* Acesse o prompt de comando e rode o comando ``` git clone ``` dentro da sua pasta de preferência
+* Acesse o prompt de comando e rode o comando ``` git clone https://github.com/Wiuver-Ribeiro/Sistema-de-Tarefas.git``` dentro da sua pasta de preferência
 
 * Acesse PhpMyAdmin e crie um novo banco de dados 
 >Com nome de **ead02**  e rode o seguinte comando com o banco já criado
